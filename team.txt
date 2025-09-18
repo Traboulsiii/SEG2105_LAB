@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 adien_kang_dev: Before merge version
 Abishan: 2nd commit
+=======
+adien_kang_dev: change staring
+>>>>>>> bdc62b5f84e19b2730e34de548ef1d7d99c2093e
